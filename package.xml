@@ -1,0 +1,10 @@
+<package>
+  <name>smr_interface</name>
+  <version>0.0.1</version>
+  <description>SMR Interface</description>
+  <author>Morten Kjaergaard</author>
+  <maintainer email="none@none.com">Morten Kjaergaard</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>roscpp</run_depend>
+</package>
